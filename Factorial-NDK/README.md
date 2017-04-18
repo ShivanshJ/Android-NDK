@@ -169,7 +169,7 @@ public class MyNativeClass {
 }
 ```
 ---
-Note the corresponding JNI  method for native method "fourtyTwo()" is not yet declared or implemented.
+Note the corresponding JNI  method for native method "factorial()" is not yet declared or implemented.
 
 <***Run Checkpoint***>
 
@@ -178,7 +178,7 @@ Note the corresponding JNI  method for native method "fourtyTwo()" is not yet de
 
 If not already configured, Add javah to Android Studio external tools. This is a one off step.
 
-The javah tool will be used to generate a JNI header for native Java method MyNativeClass.fourtyTwo().
+The javah tool will be used to generate a JNI header for native Java method MyNativeClass.factorial().
 
 ---
 Select menu: File | Settings... | Tools | External Tools | [+]
@@ -595,7 +595,7 @@ Modify:
 
 <***Run Checkpoint***>
 
-The resulting application should display the same output if and only if native MyCppClass.fourtyTwo() is successfully built, packaged and executed.
+The resulting application should display the same output if and only if native MyCppClass.factorial() is successfully built, packaged and executed.
 
 ---
 ## Step 17: Learn More
