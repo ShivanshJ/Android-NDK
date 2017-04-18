@@ -5,4 +5,8 @@ Projects added on the Go.
 
 
 Factorial-NDK
-![ScreenShot](https://cloud.githubusercontent.com/assets/26147894/25128142/37b39be8-2456-11e7-88b6-2c16e3144f82.png)
+<div align="center">
+        <img width="45%" src="https://cloud.githubusercontent.com/assets/26147894/25128142/37b39be8-2456-11e7-88b6-2c16e3144f82.png" alt="About screen" title="About screen"</img>
+        <img height="0" width="8px">
+        <img width="45%" src="screen-shots/list.PNG" alt="List screen" title="List screen"></img>
+</div>
