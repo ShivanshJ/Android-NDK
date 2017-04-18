@@ -5,4 +5,4 @@ Projects added on the Go.
 
 
 Factorial-NDK
-![Alt text](https://cloud.githubusercontent.com/assets/26147894/25128142/37b39be8-2456-11e7-88b6-2c16e3144f82.png)
+![ScreenShot](https://cloud.githubusercontent.com/assets/26147894/25128142/37b39be8-2456-11e7-88b6-2c16e3144f82.png)
